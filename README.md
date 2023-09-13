@@ -1,0 +1,2 @@
+# afake-repo
+trial repository
